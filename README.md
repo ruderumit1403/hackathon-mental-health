@@ -13,7 +13,12 @@ A system that monitors mental health by visualizing the galvanic stress response
 
 *Payal singh*
 
-See it in action here: 
+See it in action here:
 https://www.canva.com/design/DAEf4KWTgKE/KCGnJ4ZTlIKfRuO_0dFn1w/watch?utm_conte:-nt=DAEf4KWTgKE&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu
 
 ![alt tag](https://raw.githubusercontent.com/adamgillfillan/mental_health_app/master/logo-mhv.png)
+
+
+## development section
+This section would include instruction on how developers can get up
+and running on the project.
